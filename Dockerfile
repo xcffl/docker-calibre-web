@@ -30,7 +30,7 @@ ENV \
     # - APP_REPO, APP_BRANCH: the APP GitHub repository and related branch
     # for related branch or tag use e.g. master
     APP_REPO="https://github.com/xcffl/calibre-web.git" \
-    APP_BRANCH="master" \
+    APP_BRANCH="Develop" \
     \
     # - AMAZON_KG_*: KindleGen is a command line tool which enables publishers to work
     # in an automated environment with a variety of source content including HTML, XHTML or EPUB
